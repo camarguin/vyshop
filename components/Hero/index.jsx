@@ -1,3 +1,4 @@
 import Hero from './Hero'
+import HeroCarousel from './HeroCarousel'
 
-export { Hero }
+export { Hero, HeroCarousel }
